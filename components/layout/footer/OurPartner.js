@@ -6,6 +6,7 @@ import "swiper/css"
 
 
 const swiperOptions = {
+    
     modules: [Autoplay, Pagination, Navigation],
     spaceBetween: 30,
     speed: 1500,
@@ -96,8 +97,20 @@ export default function OurPartner() {
   {`
   .footer-client {
   border: none !important}
+.footer-client .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
- 
+/* FORCE image to be bigger */
+.footer-client .swiper-slide img {
+  width: 200px !important;
+  max-width: 200px !important;
+  height: auto !important;
+  object-fit: contain;
+  display: block;
+}
   `}
 </style>
         

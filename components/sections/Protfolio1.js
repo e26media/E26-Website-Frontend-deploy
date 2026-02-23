@@ -93,7 +93,7 @@ export default function Protfolio1() {
                              <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                      <img src="/assets/img/E26media/works/Nava.png" alt="img" />
+                                      <img src="/assets/img/E26media/ourworks/Wafa.png" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
@@ -118,7 +118,7 @@ export default function Protfolio1() {
                             <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                        <img src="/assets/img/E26media/works/Nava.png" alt="img" />
+                                        <img src="/assets/img/E26media/ourworks/honey.webp" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
@@ -166,7 +166,7 @@ export default function Protfolio1() {
                             <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                      <img src="/assets/img/E26media/works/abhiruchi.png" alt="img" />
+                                      <img src="/assets/img/E26media/ourworks/Abhiruchi.webp" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
@@ -190,7 +190,7 @@ export default function Protfolio1() {
                             <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                      <img src="/assets/img/E26media/works/Nava.png" alt="img" />
+                                      <img src="/assets/img/E26media/ourworks/Al Mirath.webp" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
@@ -214,7 +214,7 @@ export default function Protfolio1() {
                             <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                      <img src="/assets/img/E26media/works/Nava.png" alt="img" />
+                                      <img src="/assets/img/E26media/ourworks/Meadows.webp" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
@@ -225,7 +225,7 @@ export default function Protfolio1() {
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
                                         <Link href="/" className="cont">
                                             <h4 className="white-clr">
-                                           Chetanas
+                                           Meadows
 
                                                 {/* <span className="d-block" style={{color:"#004f39"}}>
                                                     and Solutions
@@ -238,7 +238,7 @@ export default function Protfolio1() {
                             <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                      <img src="/assets/img/E26media/works/Nava.png" alt="img" />
+                                      <img src="/assets/img/E26media/ourworks/melkar.webp" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
@@ -254,6 +254,29 @@ export default function Protfolio1() {
                                                 <span className="d-block" style={{color:"#004f39"}}>
                                                     Builders & Developers Pvt.ltd
                                                 </span>
+                                            </h4>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                                <div className="protfolio-solution-item">
+                                    <div className="thumb position-relative mb-xxl-7 mb-5">
+                                      <img src="/assets/img/E26media/ourworks/superstudy.png" alt="img" />
+                                        <Link href="/" className="mission-v4-btn d-center">
+                                            <span className="rot60">
+                                                <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
+                                            </span>
+                                        </Link>
+                                    </div>
+                                    <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
+                                         <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
+                                        <Link href="/" className="cont">
+                                            <h4 className="white-clr">
+                                          super study
+                                                {/* <span className="d-block" style={{color:"#004f39"}}>
+                                                    Builders & Developers Pvt.ltd
+                                                </span> */}
                                             </h4>
                                         </Link>
                                     </div>

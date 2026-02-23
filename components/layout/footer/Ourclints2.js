@@ -99,16 +99,7 @@ export default function Ourclints2() {
                                             <img src="/assets/img/E26media/clints/8.png" alt="img" />
                                         </Link>
                                     </SwiperSlide>
-                                    <SwiperSlide>
-                                        <Link href="/">
-                                            <img src="/assets/img/E26media/clints/9.png" alt="img" />
-                                        </Link>
-                                    </SwiperSlide>
-                                    <SwiperSlide>
-                                        <Link href="/">
-                                            <img src="/assets/img/E26media/clints/10.png" alt="img" />
-                                        </Link>
-                                    </SwiperSlide>
+                                    
                                    
                                 </Swiper>
                             </div>

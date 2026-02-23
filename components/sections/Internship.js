@@ -40,7 +40,7 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Advanced Flutter Mobile App Development with AI</h6>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Data Analyst | Data Scientist | Machine Learning</h6>
                                 <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>4 Months | Offline</span>
                                 <Link href="/enquire" className="btn">Enquire Now</Link>
                             </div>
@@ -57,7 +57,7 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Advanced Data Analytics with AI</h6>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>videography and production</h6>
                                 <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>5 Months | Offline</span>
                                 <Link href="/enquire" className="btn ">Enquire Now</Link>
                             </div>
@@ -72,7 +72,7 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Advanced Data Analytics with AI</h6>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Grapic Desinger</h6>
                                 <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>5 Months | Offline</span>
                                 <Link href="/enquire" className="btn ">Enquire Now</Link>
                             </div>
