@@ -44,7 +44,7 @@ const style = {
 }
 
 
-export default function webDevelopmentMangalore() {
+export default function DigitalMarketing() {
        const [isAccordion, setIsAccordion] = useState(1)
         const handleAccordion = (key) => {
             setIsAccordion(prevState => prevState === key ? null : key)
@@ -84,20 +84,23 @@ export default function webDevelopmentMangalore() {
                                 <img src="/assets/img/E26media/works/HEVN.png" alt="img" className="w-100"  style={{borderRadius:'20px'}}/>
                             </div>
                             <h3 className="white-clr mb-xxl-9 mb-xl-7 mb-lg-6 mb-4" data-aos="zoom-in-left" data-aos-duration={1600}>
-                              Build Powerful & Conversion-Focused Websites
+                              Digital Marketing Services in Mangalore for Business Growth
                             </h3>
                             <div className="d-flex flex-wrap align-items-center gap-xxl-5 gap-xl-3 gap-2" data-aos="zoom-in-left" data-aos-duration={1800}>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                    Web App
+                                  Social Media Marketing
                                 </Link>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                  E-commerce 
+                                  Performance Marketing 
                                 </Link>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                    Custome
+                                    SEO & Website Optimization
                                 </Link>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                    CMS
+                                    Content Marketing
+                                </Link>
+                                <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
+                                   Brand Growth Strategies
                                 </Link>
                             </div>
                         </div>
@@ -107,10 +110,10 @@ export default function webDevelopmentMangalore() {
                             </h4>
                             <div className="d-flex flex-md-nowrap flex-wrap justify-content-between gap-xxl-15 gap-xl-10 gap-lg-7 gap-sm-5 gap-3 mb-xxl-9 mb-xl-8 mb-lg-7 mb-4">
                                 <p className=" challenge-pra1"  style={{color:'black'}}>
-                                   We provide professional web development services in Mangalore designed to help businesses establish a strong online presence. Our solutions include business websites, corporate portals, e-commerce platforms, portfolio websites, landing pages, and custom CMS development. Every website we build is responsive, fast-loading, secure, and optimized for search engines to improve visibility and generate quality leads.
+                                  We offer result-driven digital marketing services in Mangalore to help businesses increase online visibility, generate qualified leads, and accelerate brand growth. From SEO and social media marketing to performance advertising and content strategies, our solutions are designed to deliver measurable results.
                                 </p>
                                 <p style={{color:'black'}}>
-                                   From strategy and UI/UX design to development and ongoing maintenance, we deliver complete end-to-end website solutions tailored to your business goals. Whether you are a startup, small business, or enterprise, our web development services ensure scalability, performance, and long-term growth.
+                                   Our digital marketing strategies focus on data-driven campaigns, audience targeting, and conversion optimization. We combine creativity with analytics to help businesses build strong online presence and achieve sustainable growth.
                                 </p>
                             </div>
                             <div className="finul-result">
@@ -201,27 +204,28 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                           Business & corporate websites
+                                                        <Link href="/digital-marketing-mangalore" style={{color:'#004f39'}}>
+                                                           Social Media Marketing
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                       Modern corporate websites that strengthen your brand and grow your business online.
+                                                       Strategic social media marketing services designed to increase brand awareness, engage your target audience, and drive meaningful business growth across major platforms.
+
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right"  /> Brand-Focused Design
+                                                            <i className="fas fa-chevron-right"  /> Content Creation & Creative Design
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Strategic Solution Planning
+                                                            <i className="fas fa-chevron-right" /> Platform Management 
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" />Technology-Driven Development
+                                                            <i className="fas fa-chevron-right" />Audience Targeting & Engagement
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" />Mobile-First Architecture
+                                                            <i className="fas fa-chevron-right" />Performance Tracking & Analytics
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -242,28 +246,29 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore"  style={{color:'#004f39'}}>
-                                                          E-commerce websites
+                                                        <Link href="/digital-marketing-mangalore"  style={{color:'#004f39'}}>
+                                                         Performance marketing 
+
 
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                      Powerful and secure online stores designed to increase sales, improve customer experience, and grow your business digitally.
+Data-driven performance marketing campaigns designed to generate qualified leads, increase conversions, and deliver measurable return on investment through targeted paid advertising.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Secure Payment Gateway Integration
+                                                            <i className="fas fa-chevron-right" /> Google Ads & Search Campaigns
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> User-Friendly Product Management
+                                                            <i className="fas fa-chevron-right" /> Meta Ads 
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Mobile-Optimized Shopping Experience
+                                                            <i className="fas fa-chevron-right" />Audience Targeting & Retargeting
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Inventory & Order Management System
+                                                            <i className="fas fa-chevron-right" /> Conversion Tracking & ROI Optimization
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -285,27 +290,28 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                          Portfolio & landing pages
+                                                        <Link href="/digital-marketing-mangalore" style={{color:'#004f39'}}>
+                                                         SEO & website optimization
+
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                       Creative and high-converting portfolio and landing pages designed to showcase your work, highlight your services, and generate quality leads.
+Comprehensive SEO and website optimization services designed to improve search engine rankings, increase organic traffic, and enhance overall website performance.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Professional Portfolio Showcase  
+                                                            <i className="fas fa-chevron-right" /> Website Audit & Optimization 
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Conversion-Focused Landing Pages
+                                                            <i className="fas fa-chevron-right" />Content & Meta Optimization
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" />Modern & Clean UI Design
+                                                            <i className="fas fa-chevron-right" />Mobile & Core Web Vitals Improvement
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Lead Capture & Call-to-Action Optimization
+                                                            <i className="fas fa-chevron-right" /> Monthly SEO Performance Reports
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -326,30 +332,30 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                           Custom CMS development
+                                                        <Link href="/digital-marketing-mangalore" style={{color:'#004f39'}}>
+                                                          Content marketing
+
 
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                        We build intelligent next-generation solutions at the intersection of new
-                                                        business opportunities and technological
-                                                        innovations.
+                                                       Strategic content marketing services designed to build brand authority, engage your audience, and drive organic traffic through high-quality and targeted content.
+
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Legacy Modernization
+                                                            <i className="fas fa-chevron-right" /> Blog & Article Writing
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Solution Design
+                                                            <i className="fas fa-chevron-right" /> Website Content Development
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Technology Enabling
+                                                            <i className="fas fa-chevron-right" />SEO-Optimized Content Strategy
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Mobile-First Systems
+                                                            <i className="fas fa-chevron-right" /> Content Planning & Distribution
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -370,28 +376,28 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                         Website maintenance & support
+                                                        <Link href="/digital-marketing-mangalore" style={{color:'#004f39'}}>
+                                                       Brand growth strategies
 
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                      Reliable website maintenance and technical support services to keep your website secure, updated, and running smoothly at all times.
+Comprehensive brand growth strategies designed to strengthen your market presence, build customer trust, and drive sustainable business expansion.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Regular Updates & Security Monitoring
+                                                            <i className="fas fa-chevron-right" /> Brand Positioning & Market Analysis
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Performance Optimization
+                                                            <i className="fas fa-chevron-right" /> Audience Targeting & Segmentation
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Bug Fixes & Technical Support
+                                                            <i className="fas fa-chevron-right" /> Multi-Channel Marketing Strategy
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Backup & Recovery Solutions
+                                                            <i className="fas fa-chevron-right" /> Performance Monitoring & Optimization
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">

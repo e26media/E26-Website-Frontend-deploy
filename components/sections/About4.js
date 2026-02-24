@@ -13,7 +13,7 @@ export default function About4() {
                                             <img src="/assets/img/E26media/team/aboutpage.png" alt="img" className="w-100" />
                                         </div>
                                         <div className="about-small-thumb w-100 mt-xxl-10 mt-xl-7 mt-lg-5 mt-3" data-aos="zoom-in" data-aos-duration={1800}>
-                                            <img src="/assets/img/about/about-s2.png" alt="img" className="w-100" />
+                                            <img src="/assets/img/E26media/homeabout.png" alt="img" className="w-100" />
                                         </div>
                                         {/*- About Arrow */}
                                         <img src="/assets/img/E26media/elements/arrow-right-storke.png" alt="img" className="about-tumb-arrow"  style={{zIndex:'2'}}/>

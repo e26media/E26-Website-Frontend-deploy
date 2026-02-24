@@ -1145,7 +1145,8 @@ footer {
 }
 
 .breadcrumnd-banner {
-    background: url(../img/E26media/breadcrumnd-bg.png) no-repeat center center;
+    /* background: url(../img/E26media/breadcrumnd-bg.png) no-repeat center center; */
+    background: url(../img/E26media/bannersection.png) no-repeat center center;
     background-size: cover;
     padding: 220px 2px 144px;
 }

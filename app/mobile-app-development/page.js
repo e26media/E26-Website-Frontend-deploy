@@ -44,7 +44,7 @@ const style = {
 }
 
 
-export default function webDevelopmentMangalore() {
+export default function MobileAppDevelopment() {
        const [isAccordion, setIsAccordion] = useState(1)
         const handleAccordion = (key) => {
             setIsAccordion(prevState => prevState === key ? null : key)
@@ -63,15 +63,15 @@ export default function webDevelopmentMangalore() {
                         <div className="mycustom-marque">
                             <div className="scrolling-wrap">
                                 <div className="comm">
-                                    <div className="cmn-textslide">Website Development</div>
+                                    <div className="cmn-textslide">Mobile App Development</div>
                                      <div><img src="/assets/img/E26media/elements/text-slide.png" alt="img" /></div>
-                                    <div className="cmn-textslide text-custom-storke">E-commerce websites</div>
+                                    <div className="cmn-textslide text-custom-storke">Mobile App Development</div>
                                     <div><img src="/assets/img/E26media/elements/text-slide.png" alt="img" /></div>
                                 </div>
                                 <div className="comm">
-                                     <div className="cmn-textslide">Website Development</div>
+                                     <div className="cmn-textslide">Mobile App Development</div>
                                      <div><img src="/assets/img/E26media/elements/text-slide.png" alt="img" /></div>
-                                    <div className="cmn-textslide text-custom-storke">E-commerce websites</div>
+                                    <div className="cmn-textslide text-custom-storke">Mobile App Development</div>
                                     <div><img src="/assets/img/E26media/elements/text-slide.png" alt="img" /></div>
                                 </div>
                             </div>
@@ -81,23 +81,23 @@ export default function webDevelopmentMangalore() {
                     <div className="container">
                         <div className="service-details-header bb-border pb-xxl-9 pb-xl-7 pb-6">
                             <div className="thumb w-100 mb-xxl-12 mb-xl-9 mb-sm-6 mb-5" data-aos="zoom-in" data-aos-duration={1500}>
-                                <img src="/assets/img/E26media/works/HEVN.png" alt="img" className="w-100"  style={{borderRadius:'20px'}}/>
+                                <img src="/assets/img/E26media/ourworks/wafa.png" alt="img" className="w-100"  style={{borderRadius:'20px'}}/>
                             </div>
                             <h3 className="white-clr mb-xxl-9 mb-xl-7 mb-lg-6 mb-4" data-aos="zoom-in-left" data-aos-duration={1600}>
-                              Build Powerful & Conversion-Focused Websites
+                            Professional Mobile App Development Services 
                             </h3>
                             <div className="d-flex flex-wrap align-items-center gap-xxl-5 gap-xl-3 gap-2" data-aos="zoom-in-left" data-aos-duration={1800}>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                    Web App
+                                  Android Application Development
                                 </Link>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                  E-commerce 
+                                  iOS Application Development
                                 </Link>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                    Custome
+                                  Cross-Platform App Development
                                 </Link>
                                 <Link href="/service-details" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr" style={{color:'#004f39'}}>
-                                    CMS
+                                    App Maintenance & Upgrades
                                 </Link>
                             </div>
                         </div>
@@ -107,10 +107,10 @@ export default function webDevelopmentMangalore() {
                             </h4>
                             <div className="d-flex flex-md-nowrap flex-wrap justify-content-between gap-xxl-15 gap-xl-10 gap-lg-7 gap-sm-5 gap-3 mb-xxl-9 mb-xl-8 mb-lg-7 mb-4">
                                 <p className=" challenge-pra1"  style={{color:'black'}}>
-                                   We provide professional web development services in Mangalore designed to help businesses establish a strong online presence. Our solutions include business websites, corporate portals, e-commerce platforms, portfolio websites, landing pages, and custom CMS development. Every website we build is responsive, fast-loading, secure, and optimized for search engines to improve visibility and generate quality leads.
+                                We provide custom mobile app development services in Mangalore, creating high-performance, secure, and user-friendly applications for Android, iOS, and cross-platform environments. Our mobile solutions are designed to enhance user engagement, improve business efficiency, and drive digital growth.
                                 </p>
                                 <p style={{color:'black'}}>
-                                   From strategy and UI/UX design to development and ongoing maintenance, we deliver complete end-to-end website solutions tailored to your business goals. Whether you are a startup, small business, or enterprise, our web development services ensure scalability, performance, and long-term growth.
+Our mobile app development services focus on delivering scalable, intuitive, and future-ready applications tailored to your business requirements. From native Android and iOS apps to cross-platform solutions, we ensure seamless performance and excellent user experience.
                                 </p>
                             </div>
                             <div className="finul-result">
@@ -120,9 +120,10 @@ export default function webDevelopmentMangalore() {
                                 <div className="d-md-flex flex-grid align-items-center gap-xxl-20 gap-xl-10 gap-lg-7 gap-md-6 gap-10">
                                     <div className="fiial-result-list mb-md-0 mb-4">
                                     <ul>
-    <li>Responsive and mobile-friendly website design</li>
-    <li>SEO optimized structure for better Google ranking</li>
-    <li>Fast loading and high performance</li>
+    <li>High-Performance & Scalable Apps</li>
+    <li>Secure & Reliable Architecture</li>
+    <li>User-Friendly UI/UX Design</li>
+    <li>Ongoing Support & Upgrades</li>
 </ul>
 
                                         {/* <ul>
@@ -201,27 +202,27 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                           Business & corporate websites
+                                                        <Link href="/mobile-app-development" style={{color:'#004f39'}}>
+                                                         Android application development
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                       Modern corporate websites that strengthen your brand and grow your business online.
+                                                      Custom Android applications designed to deliver smooth performance, intuitive user experience, and scalable functionality for businesses across industries.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right"  /> Brand-Focused Design
+                                                            <i className="fas fa-chevron-right"  /> Native Android App Development
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Strategic Solution Planning
+                                                            <i className="fas fa-chevron-right" /> Material UI/UX Design
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" />Technology-Driven Development
+                                                            <i className="fas fa-chevron-right" />Secure API & Database Integration
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" />Mobile-First Architecture
+                                                            <i className="fas fa-chevron-right" />Google Play Store Deployment Support
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -242,28 +243,29 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore"  style={{color:'#004f39'}}>
-                                                          E-commerce websites
+                                                        <Link href="/mobile-app-development"  style={{color:'#004f39'}}>
+                                                      iOS application development
+
 
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                      Powerful and secure online stores designed to increase sales, improve customer experience, and grow your business digitally.
+                                                     Custom iOS applications built to deliver seamless performance, elegant design, and secure functionality for iPhone and iPad users.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Secure Payment Gateway Integration
+                                                            <i className="fas fa-chevron-right" /> Native iOS App Development
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> User-Friendly Product Management
+                                                            <i className="fas fa-chevron-right" /> Modern UI/UX for Apple Devices
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Mobile-Optimized Shopping Experience
+                                                            <i className="fas fa-chevron-right" />Secure Backend & API Integration
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Inventory & Order Management System
+                                                            <i className="fas fa-chevron-right" />App Store Deployment & Support
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -285,27 +287,27 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                          Portfolio & landing pages
+                                                        <Link href="/mobile-app-development" style={{color:'#004f39'}}>
+                                                          Cross-platform apps
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                       Creative and high-converting portfolio and landing pages designed to showcase your work, highlight your services, and generate quality leads.
+                                                       Cost-effective and scalable cross-platform applications built to run seamlessly on Android and iOS using a single codebase, ensuring faster development and consistent performance.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Professional Portfolio Showcase  
+                                                            <i className="fas fa-chevron-right" /> Single Codebase for Multiple Platforms
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Conversion-Focused Landing Pages
+                                                            <i className="fas fa-chevron-right" /> Faster Development & Deployment
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" />Modern & Clean UI Design
+                                                            <i className="fas fa-chevron-right" />Consistent UI Across Devices
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Lead Capture & Call-to-Action Optimization
+                                                            <i className="fas fa-chevron-right" /> Easy Maintenance & Updates
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -326,30 +328,28 @@ export default function webDevelopmentMangalore() {
                                                         </span>
                                                     </span>
                                                     <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                           Custom CMS development
+                                                        <Link href="/mobile-app-development" style={{color:'#004f39'}}>
+                                                          App maintenance & upgrades
 
                                                         </Link>
                                                     </span>
                                                     <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                        We build intelligent next-generation solutions at the intersection of new
-                                                        business opportunities and technological
-                                                        innovations.
+                                                      Reliable app maintenance and upgrade services to ensure your mobile application stays secure, updated, and optimized for performance across all devices and operating system versions.
                                                     </span>
                                                 </div>
                                                 <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                                     <ul className="modern-list d-grid gap-2">
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Legacy Modernization
+                                                            <i className="fas fa-chevron-right" /> Regular Updates & Bug Fixes
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Solution Design
+                                                            <i className="fas fa-chevron-right" /> Performance Monitoring & Optimization
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Technology Enabling
+                                                            <i className="fas fa-chevron-right" /> Security Patches & Enhancements
                                                         </li>
                                                         <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Mobile-First Systems
+                                                            <i className="fas fa-chevron-right" /> Feature Improvements & Version Upgrades
                                                         </li>
                                                     </ul>
                                                     <div className="tab-remove-thumb">
@@ -359,48 +359,7 @@ export default function webDevelopmentMangalore() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className={`accordion-single py-xxl-9 py-xl-7 py-lg-6 py-5 bb-border bt-border  ${isAccordion === 5 ? "active" : ""}`}>
-                                        <div className="header-area" onClick={() => handleAccordion(5)}>
-                                            <div className="accordion-btn justify-content-between d-flex align-items-center text-start d-flex position-relative w-100">
-                                                <div className="mtitle-ara">
-                                                    <span className="d-inine-flex serial-badge align-items-center gap-4 cmn-border radius100 white-clr">
-                                                        05
-                                                        <span className="rot60 d-inline-block theme-clr">
-                                                            <i className="fa-solid fa-arrow-right"  style={{color:'#004f39'}}/>
-                                                        </span>
-                                                    </span>
-                                                    <span className="mtitle d-block mt-6">
-                                                        <Link href="/web-development-mangalore" style={{color:'#004f39'}}>
-                                                         Website maintenance & support
-
-                                                        </Link>
-                                                    </span>
-                                                    <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block" style={{color:'#004f39'}}>
-                                                      Reliable website maintenance and technical support services to keep your website secure, updated, and running smoothly at all times.
-                                                    </span>
-                                                </div>
-                                                <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
-                                                    <ul className="modern-list d-grid gap-2">
-                                                        <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Regular Updates & Security Monitoring
-                                                        </li>
-                                                        <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Performance Optimization
-                                                        </li>
-                                                        <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Bug Fixes & Technical Support
-                                                        </li>
-                                                        <li className="d-flex align-items-center gap-2">
-                                                            <i className="fas fa-chevron-right" /> Backup & Recovery Solutions
-                                                        </li>
-                                                    </ul>
-                                                    <div className="tab-remove-thumb">
-                                                        <img src="/assets/img/E26media/website/3.png" alt="img" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                
                                 </div>
                             </div>
                             {/*Service Tabing section*/}

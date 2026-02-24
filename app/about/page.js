@@ -48,7 +48,7 @@ export default function About() {
     return (
         <>
 
-            <Layout headerStyle={2} footerStyle={2} breadcrumbTitle="About Agency">
+            <Layout headerStyle={2} footerStyle={2} breadcrumbTitle="About us" >
                 <div>
                       <About4/>
                         <Blog5 />

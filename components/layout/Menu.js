@@ -64,7 +64,7 @@ export default function Menu() {
                     </Link>
                 </li>
                   <li className="menu-item position-relative">
-                    <Link href="/" className="fw_500">
+                    <Link href="/about" className="fw_500">
                     {/* <Link href="/about" className="fw_500"> */}
                        About us
                     </Link>
@@ -103,20 +103,20 @@ export default function Menu() {
                     </button>
                     <ul className="sub-menu px-lg-4 py-xxl-3 py-2" style={{ display: `${isAccordion == 5 ? "block" : "none"}` }}>
                         <li className="menu-link py-1">
-                            <Link href="/" className="fw_500 white-clr">Website Development</Link>
+                            <Link href="/web-development-mangalore" className="fw_500 white-clr">Website Development</Link>
                             {/* <Link href="/web-development" className="fw_500 white-clr">Website Development</Link> */}
                         </li>
                         <li className="menu-link py-1">
-                            <Link href="/" className="fw_500 white-clr">Software Development</Link>
+                            <Link href="/software-development" className="fw_500 white-clr">Software Development</Link>
                             {/* <Link href="/service-details" className="fw_500 white-clr">Software Development</Link> */}
                         </li>
                         <li className="menu-link py-1">
-                            <Link href="/" className="fw_500 white-clr">Mobile App Development</Link>
+                            <Link href="/mobile-app-development" className="fw_500 white-clr">Mobile App Development</Link>
                             {/* <Link href="/service-details" className="fw_500 white-clr">Mobile App Development</Link> */}
                         </li>
                       
                         <li className="menu-link py-1">
-                            <Link href="/" className="fw_500 white-clr">Digital Marketing</Link>
+                            <Link href="/digital-marketing-mangalore" className="fw_500 white-clr">Digital Marketing</Link>
                             {/* <Link href="/service-details" className="fw_500 white-clr">Digital Marketing</Link> */}
                         </li>
                           <li className="menu-link py-1">
@@ -170,12 +170,12 @@ export default function Menu() {
                     </Link>
                 </li> */}
                  <li className="menu-item position-relative">
-                    <Link href="/" className="fw_500">
-                        Portfolio
-                    </Link>
-                    {/* <Link href="/works" className="fw_500">
+                    {/* <Link href="/" className="fw_500">
                         Portfolio
                     </Link> */}
+                    <Link href="/works" className="fw_500">
+                        Portfolio
+                    </Link>
                 </li>
                  <li className="menu-item position-relative">
                     <Link href="/" className="fw_500">

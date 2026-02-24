@@ -16,7 +16,7 @@ export default function StepWorking2() {
                                    How it works
                                 </div>
                                 <h2 className="stitle mt-xxl-8 mt-xl-6 mt-5" style={{ color: "#ffffff" }}>
-                                    Our Work <span className="fw-400" style={{ color: "#004f39" }}>process</span>
+                                    Our Work <span className="fw-400" style={{ color: "#ffffff" }}>process</span>
                                 </h2>
                             </div>
                         </div>
@@ -26,7 +26,7 @@ export default function StepWorking2() {
                                     Bring to the table win-win survival strategies to ensure proactive domination. At the
                                     end of the day, going forward, a new normal that has evolved from generation on the runway heading towards
                                 </p>
-                                <VideoPopup style={2} />
+                                {/* <VideoPopup style={2} /> */}
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@ export default function StepWorking2() {
 
                     {/* Decorative Element */}
                     <div className="step-element1">
-                        <img src="/assets/img/service/step-working.png" alt="img" />
+                        <img src="/assets/img/E26media/process.png" alt="img" />
                     </div>
                 </div>
             </section>
