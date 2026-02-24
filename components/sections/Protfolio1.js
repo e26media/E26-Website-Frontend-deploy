@@ -93,7 +93,7 @@ export default function Protfolio1() {
                              <SwiperSlide>
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
-                                      <img src="./assets/img/E26media/ourworks/Wafa.png" alt="img" />
+                                      <img src="/assets/img/E26media/ourworks/wafa.png" alt="img" />
                                         <Link href="/" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
