@@ -47,7 +47,7 @@ export default function AbhiruchiMangalore() {
                         <div className="row g-xxl-7 g-xl-6 g-5 mb-xxl-13 mb-10">
                             <div className="col-lg-8">
                                 <div className="case-thumb1 w-100" data-aos="zoom-in" data-aos-duration={1500}>
-                                    <img src="/assets/img/E26media/works/abhiruchi.png" alt="img" className="w-100 custom-img-border" />
+                                    <img src="/assets/img/E26media/works/abhiruchi1.png" alt="img" className="w-100 custom-img-border" />
                                 </div>
                             </div>
                             <div className="col-lg-4" data-aos="zoom-in-left" data-aos-duration={1600}>
@@ -159,7 +159,7 @@ export default function AbhiruchiMangalore() {
                                     consectetur placerat augue vestibulum.
                                 </p> */}
                             </div>
-                            <div className="row g-xxl-7 g-4 py-xxl-15 py-9">
+                            {/* <div className="row g-xxl-7 g-4 py-xxl-15 py-9">
                                 <div className="col-sm-6">
                                     <div className="challenge-thumb w-100" >
                                         <img src="/assets/img/E26media/works/abhiruchi.png" alt="img" className="w-100"  id='challenge-thumb'/>
@@ -167,12 +167,10 @@ export default function AbhiruchiMangalore() {
                                 </div>
                                 <div className="col-sm-6" >
                                     <div className="challenge-thumb w-100" >
-                                        <img src="/assets/img/E26media/works/Nava.png" alt="img" className="w-100" id='challenge-thumb' />
+                                        <img src="/assets/img/E26media/works/abhiruchi 2.jpg" alt="img" className="w-100" id='challenge-thumb' />
                                     </div>
                                 </div>
-                            </div>
-
-
+                            </div> */}
 <h4 className="mb-xxl-7 mb-4 white-clr mt-2">
                              Our Strategy & Execution
 
@@ -247,7 +245,7 @@ export default function AbhiruchiMangalore() {
     <SwiperSlide>
       <div className="study-thumb-slide custom-img-border">
         <img 
-          src="/assets/img/E26media/works/abhiruchi.png" 
+          src="/assets/img/E26media/works/abhiruchi bag.png" 
           alt="Abhiruchi Project"
           className="w-100"
         />
@@ -257,7 +255,7 @@ export default function AbhiruchiMangalore() {
     <SwiperSlide>
       <div className="study-thumb-slide custom-img-border">
         <img 
-          src="/assets/img/E26media/works/Tawakkal.png" 
+          src="/assets/img/E26media/works/abhiruchi bag 2.png" 
           alt="Tawakkal Muslim App"
           className="w-100"
         />
@@ -266,7 +264,7 @@ export default function AbhiruchiMangalore() {
      <SwiperSlide>
       <div className="study-thumb-slide custom-img-border">
         <img 
-          src="/assets/img/E26media/works/abhiruchi.png" 
+          src="/assets/img/E26media/works/abhiruchi van.png" 
           alt="Abhiruchi Project"
           className="w-100"
         />

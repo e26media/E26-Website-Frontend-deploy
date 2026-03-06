@@ -1,5 +1,3 @@
-
-
 'use client'
 import Link from "next/link"
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
@@ -45,7 +43,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                         <img src="/assets/img/E26media/works/Tawakkal.png" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/tawakkal-muslim" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -53,7 +51,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/tawakkal-muslim" className="cont">
                                             <h4 className="white-clr">
                                                 Tawakkal Muslim
                                                 {/* <span className="d-block" style={{color:"#004f39"}}>
@@ -69,7 +67,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                         <img src="/assets/img/E26media/works/HEVN.png" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/HEVN-Solar-Solution" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -77,7 +75,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/HEVN-Solar-Solution" className="cont">
                                             <h4 className="white-clr">
                                                 HEVN
                                                 {/* <span className="d-block" style={{color:"#004f39"}}>
@@ -94,7 +92,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                       <img src="/assets/img/E26media/ourworks/wafa.png" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Wafa-Enterprises" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -102,7 +100,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Wafa-Enterprises" className="cont">
                                             <h4 className="white-clr">
                                               Wafa Enterprises
 
@@ -119,7 +117,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                         <img src="/assets/img/E26media/ourworks/honey.webp" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Tabiaa" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -127,7 +125,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                         <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Tabiaa" className="cont">
                                             <h4 className="white-clr" >
                                                Tabiaa
                                                 <span className="d-block" style={{color:"#004f39"}}>
@@ -143,7 +141,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                         <img src="/assets/img/E26media/works/Nava.png" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Nava-Nirman" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -151,7 +149,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                         <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Nava-Nirman" className="cont">
                                             <h4 className="white-clr">
                                                Nava Nirman
                                                 {/* <span className="d-block" style={{color:"#004f39"}}>
@@ -167,7 +165,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                       <img src="/assets/img/E26media/ourworks/Abhiruchi.webp" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/abhiruchi-mangalore" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -175,7 +173,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/abhiruchi-mangalore" className="cont">
                                             <h4 className="white-clr">
                                             Abhiruchi 
 
@@ -191,7 +189,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                       <img src="/assets/img/E26media/ourworks/Al Mirath.webp" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Al-Mirath" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -199,7 +197,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Al-Mirath" className="cont">
                                             <h4 className="white-clr">
                                             Al Mirath
 
@@ -215,7 +213,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                       <img src="/assets/img/E26media/ourworks/Meadows.webp" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Meadows-resto-cafe" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -223,7 +221,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Meadows-resto-cafe" className="cont">
                                             <h4 className="white-clr">
                                            Meadows
 
@@ -239,7 +237,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                       <img src="/assets/img/E26media/ourworks/melkar.webp" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Melkar-Builders" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -247,7 +245,7 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Melkar-Builders" className="cont">
                                             <h4 className="white-clr">
                                            Melkar
 
@@ -263,7 +261,7 @@ export default function Protfolio1() {
                                 <div className="protfolio-solution-item">
                                     <div className="thumb position-relative mb-xxl-7 mb-5">
                                       <img src="/assets/img/E26media/ourworks/superstudy.png" alt="img" />
-                                        <Link href="/" className="mission-v4-btn d-center">
+                                        <Link href="/Super-Study" className="mission-v4-btn d-center">
                                             <span className="rot60">
                                                 <i className="fa-solid fa-arrow-up " style={{color:"white"}}/>
                                             </span>
@@ -271,9 +269,9 @@ export default function Protfolio1() {
                                     </div>
                                     <div className="content bb-border pb-xxl-7 pb-5 d-flex align-items-center gap-xxl-7 gap-xl-5 gap-4">
                                          <img src="/assets/img/E26media/elements/arrow-right-storke.png"  alt="img" />
-                                        <Link href="/" className="cont">
+                                        <Link href="/Super-Study" className="cont">
                                             <h4 className="white-clr">
-                                          super study
+                                          Super Study
                                                 {/* <span className="d-block" style={{color:"#004f39"}}>
                                                     Builders & Developers Pvt.ltd
                                                 </span> */}
