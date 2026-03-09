@@ -42,7 +42,6 @@ export default function Home() {
                       <TextSLider7/>
                     <Testimonial3 />
 
-
                     {/* <Product1 /> */}
                     {/* <Service1 /> */}
                     <TextSLider7 />

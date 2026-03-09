@@ -47,7 +47,7 @@ export default function Almirath() {
                         <div className="row g-xxl-7 g-xl-6 g-5 mb-xxl-13 mb-10">
                             <div className="col-lg-8">
                                 <div className="case-thumb1 w-100" data-aos="zoom-in" data-aos-duration={1500}>
-                                    <img src="/assets/img/E26media/works/Tawakkal.png" alt="img" className="w-100 custom-img-border" />
+                                    <img src="/assets/img/E26media/works/al-mirath-4.png" alt="img" className="w-100 custom-img-border" />
                                 </div>
                             </div>
                             <div className="col-lg-4" data-aos="zoom-in-left" data-aos-duration={1600}>
@@ -167,7 +167,7 @@ export default function Almirath() {
                                     consectetur placerat augue vestibulum.
                                 </p> */}
                             </div>
-                            <div className="row g-xxl-7 g-4 py-xxl-15 py-9">
+                            {/* <div className="row g-xxl-7 g-4 py-xxl-15 py-9">
                                 <div className="col-sm-6">
                                     <div className="challenge-thumb w-100" >
                                         <img src="/assets/img/E26media/works/abhiruchi.png" alt="img" className="w-100"  id='challenge-thumb'/>
@@ -178,7 +178,7 @@ export default function Almirath() {
                                         <img src="/assets/img/E26media/works/Nava.png" alt="img" className="w-100" id='challenge-thumb' />
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
 
                                  <div className="d-flex flex-md-nowrap flex-wrap justify-content-between gap-xxl-15 gap-xl-10 gap-lg-7 gap-sm-5 gap-3 ">
@@ -256,8 +256,8 @@ export default function Almirath() {
     <SwiperSlide>
       <div className="study-thumb-slide custom-img-border">
         <img 
-          src="/assets/img/E26media/works/abhiruchi.png" 
-          alt="Abhiruchi Project"
+          src="/assets/img/E26media/works/al-mirath-1.webp" 
+          alt="Al-Mirath Project"
           className="w-100"
         />
       </div>
@@ -266,7 +266,7 @@ export default function Almirath() {
     <SwiperSlide>
       <div className="study-thumb-slide custom-img-border">
         <img 
-          src="/assets/img/E26media/works/Tawakkal.png" 
+          src="/assets/img/E26media/works/al-mirath-2.webp" 
           alt="Tawakkal Muslim App"
           className="w-100"
         />
@@ -275,7 +275,7 @@ export default function Almirath() {
      <SwiperSlide>
       <div className="study-thumb-slide custom-img-border">
         <img 
-          src="/assets/img/E26media/works/abhiruchi.png" 
+          src="/assets/img/E26media/works/al-mirath-3.webp" 
           alt="Abhiruchi Project"
           className="w-100"
         />

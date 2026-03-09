@@ -1,5 +1,6 @@
 'use client'
 
+import Layout from "@/components/layout/Layout";
 import Link from "next/link"
 import { useEffect, useState } from "react"
 
@@ -83,6 +84,7 @@ export default function Courses() {
 
   return (
     <>
+     <Layout headerStyle={2} footerStyle={2} breadcrumbTitle="Courses">
       {/* Intro Section */}
       <section className="blog-intro pt-space pb-space" style={{ backgroundColor: "#fff" }}>
         <div className="container text-center">
@@ -235,6 +237,7 @@ export default function Courses() {
           }
         }
       `}</style>
+      </Layout>
     </>
   )
 }
