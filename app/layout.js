@@ -6,6 +6,7 @@ import "/public/assets/css/swiper.min.css"
 import "/public/assets/css/aos.css"
 import "/public/assets/css/main.css"
 import { Manrope, Plus_Jakarta_Sans } from 'next/font/google'
+import Script from 'next/script' // 1. Import the Script component
 
 const manrope = Manrope({
     weight: ['300', '400', '500', '600', '700'],
@@ -27,7 +28,24 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
-            <body className={`${manrope.variable} ${jakarta.variable} position-relative bg2-clr`}>{children}</body>
+            <head>
+                {/* 2. Google Analytics Script */}
+                <Script
+                    src="https://www.googletagmanager.com/gtag/js?id=G-TCKSDB6PFF"
+                    strategy="afterInteractive"
+                />
+                <Script id="google-analytics" strategy="afterInteractive">
+                    {`
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments);}
+                      gtag('js', new Date());
+                      gtag('config', 'G-TCKSDB6PFF');
+                    `}
+                </Script>
+            </head>
+            <body className={`${manrope.variable} ${jakarta.variable} position-relative bg2-clr`}>
+                {children}
+            </body>
         </html>
     )
 }
