@@ -28,7 +28,7 @@ export default function Home() {
     return (
         <>
 
-            <Layout headerStyle={2} footerStyle={2}>
+            <Layout headerStyle={2} footerStyle={2} >
                 <div className="position-relative overflow-hidden">
                     <div className="line-shape cus-z-1 first w-100 h-100 d-flex flex-wrap" />
 

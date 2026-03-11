@@ -23,8 +23,8 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Advanced MERN Stack <br/> Development with AI</h6>
-                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>8 Months | Offline</span>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Advanced MERN Stack  Development </h6>
+                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>2 Months </span>
                                 <Link href="/enquire" className="btn ">Enquire Now</Link>
                             </div>
                         </div>
@@ -40,8 +40,8 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Data Analyst | Data Scientist | Machine Learning</h6>
-                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>4 Months | Offline</span>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Data Science & Analytics | AI/ML</h6>
+                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>2 Months </span>
                                 <Link href="/enquire" className="btn">Enquire Now</Link>
                             </div>
                         </div>
@@ -57,8 +57,8 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>videography and production</h6>
-                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>5 Months | Offline</span>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Videography & Editing</h6>
+                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>2 Months</span>
                                 <Link href="/enquire" className="btn ">Enquire Now</Link>
                             </div>
                         </div>
@@ -72,8 +72,8 @@ export default function Courses() {
                                 style={{borderRadius:'10px'}}
                             />
                             <div className="course-info text-center p-3">
-                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Grapic Desinger</h6>
-                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>5 Months | Offline</span>
+                                <h6 className="mb-2" style={{color:'#004f39',fontSize:'16px'}}>Graphic Designing</h6>
+                                <span className="d-block mb-3" style={{color:'#004f39',fontSize:'16px'}}>2 Months </span>
                                 <Link href="/enquire" className="btn ">Enquire Now</Link>
                             </div>
                         </div>

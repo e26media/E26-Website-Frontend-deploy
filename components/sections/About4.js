@@ -10,13 +10,13 @@ export default function About4() {
                                 <div className="col-lg-6 pe-lg-14">
                                     <div className="d-flex gap-xxl-7 gap-xl-5 gap-4 position-relative z-index-1">
                                         <div className="about-small-thumb w-100" data-aos="zoom-in" data-aos-duration={1500}>
-                                            <img src="/assets/img/E26media/team/aboutpage.png" alt="img" className="w-100" />
+                                            <img src="https://images.unsplash.com/photo-1522683280249-025c6e03d311" alt="img" className="w-100" />
                                         </div>
                                         <div className="about-small-thumb w-100 mt-xxl-10 mt-xl-7 mt-lg-5 mt-3" data-aos="zoom-in" data-aos-duration={1800}>
-                                            <img src="/assets/img/E26media/homeabout.png" alt="img" className="w-100" />
+                                            <img src="https://images.unsplash.com/photo-1627330248353-3872e78369ee" alt="img" className="w-100" />
                                         </div>
                                         {/*- About Arrow */}
-                                        <img src="/assets/img/E26media/elements/arrow-right-storke.png" alt="img" className="about-tumb-arrow"  style={{zIndex:'2'}}/>
+                                        {/* <img src="/assets/img/E26media/elements/arrow-right-storke.png" alt="img" className="about-tumb-arrow"  style={{zIndex:'2'}}/> */}
                                     </div>
                                 </div>
                                 <div className="col-lg-6">

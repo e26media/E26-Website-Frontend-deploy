@@ -50,7 +50,7 @@ export default function Blog5() {
                                             MARCH 24, 2024
                                         </span> */}
                                     </div>
-                                    <h5>
+                                    <h5 id='blogTitle'>
                                         <Link href="/" id="white-clr" style={{textAlign:'center !impotent'}}>
                                             Website Development
                                         </Link>
@@ -80,7 +80,7 @@ export default function Blog5() {
                                             MARCH 24, 2024
                                         </span> */}
                                     </div>
-                                    <h5>
+                                    <h5 id='blogTitle'>
                                         <Link href="/" id="white-clr" >
                                           Software Development
                                         </Link>
@@ -110,7 +110,7 @@ export default function Blog5() {
                                             MARCH 24, 2024
                                         </span> */}
                                     </div>
-                                    <h5>
+                                    <h5 id='blogTitle'>
                                         <Link href="/" id="white-clr" >
                                            Mobile App Development
                                         </Link>
@@ -140,7 +140,7 @@ export default function Blog5() {
                                             MARCH 24, 2024
                                         </span> */}
                                     </div>
-                                    <h5>
+                                    <h5 id='blogTitle'>
                                         <Link href="/" id="white-clr" >
                                            Automation Services
                                         </Link>
@@ -170,7 +170,7 @@ export default function Blog5() {
                                             MARCH 24, 2024
                                         </span> */}
                                     </div>
-                                    <h5>
+                                    <h5 id='blogTitle'>
                                         <Link href="/" id="white-clr" >
                                           Digital Marketing
                                         </Link>
@@ -200,7 +200,7 @@ export default function Blog5() {
                                             MARCH 24, 2024
                                         </span> */}
                                     </div>
-                                    <h5>
+                                    <h5 id='blogTitle'>
                                         <Link href="/" id="white-clr" >
                                        Creative Picks
                                         </Link>
@@ -213,7 +213,7 @@ export default function Blog5() {
             </section>
            <style>
   {`
-    h5 {
+    #blogTitle {
       text-align: center;
       margin-top: -20px !important;
     }

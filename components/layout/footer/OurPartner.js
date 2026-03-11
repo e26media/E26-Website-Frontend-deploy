@@ -63,7 +63,7 @@ export default function OurPartner() {
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <Link href="/">
-                                            <img src="/assets/img/E26media/partner/2.png" alt="img" />
+                                            <img src="/assets/img/E26media/partner/7.png" alt="img" />
                                         </Link>
                                     </SwiperSlide>
                                     <SwiperSlide>
@@ -78,7 +78,7 @@ export default function OurPartner() {
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <Link href="/">
-                                            <img src="/assets/img/E26media/partner/5.png" alt="img" />
+                                            <img src="/assets/img/E26media/partner/9.png" alt="img" />
                                         </Link>
                                     </SwiperSlide>
                                    

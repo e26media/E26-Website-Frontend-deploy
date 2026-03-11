@@ -365,7 +365,7 @@ export default function Footer2() {
                                 © All Copyright {new Date().getFullYear()} by <Link href="/" className="theme-clr"  style={{fontWeight:'bold'}}>E26 Media</Link>
                             </p>
                             <Link href="/" className="footer-logov1 m-md-0 m-auto">
-                                <img src="/assets/img/E26media/footerlogo1.png" alt="img" />
+                                <img src="/assets/img/E26media/footer.png" alt="img"  height={"100px"}/>
                             </Link>
                             <Link href="/#" className="pra-clr">
                                 Terms &amp; Conditions Privacy Policy
