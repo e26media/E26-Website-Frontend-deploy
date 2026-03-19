@@ -30,10 +30,10 @@ const swiperOptions = {
             slidesPerView: 4,
         },
         500: {
-            slidesPerView: 3,
+            slidesPerView: 2,
         },
         320: {
-            slidesPerView: 3,
+            slidesPerView: 2,
         },
     },
 }
@@ -86,17 +86,21 @@ export default function Ourclints2() {
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <Link href="/">
-                                            <img src="/assets/img/E26media/clints/test/6.png" alt="img" />
+                                            <img src="/assets/img/E26media/clints/test/6.png" alt="img"  />
                                         </Link>
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <Link href="/">
-                                            <img src="/assets/img/E26media/clints/test/7.png" alt="img" />
+                                            <img src="/assets/img/E26media/clints/test/7.png" alt="img" style={{
+     filter: "drop-shadow(0 0 2px white)"
+    }}/>
                                         </Link>
                                     </SwiperSlide>
                                     <SwiperSlide>
                                         <Link href="/">
-                                            <img src="/assets/img/E26media/clints/test/8.png" alt="img" />
+                                            <img src="/assets/img/E26media/clints/test/8.png" alt="img"  style={{
+     filter: "drop-shadow(0 0 2px white)"
+    }} />
                                         </Link>
                                     </SwiperSlide>
                                     
