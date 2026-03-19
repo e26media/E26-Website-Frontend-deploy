@@ -5584,4 +5584,16 @@ input.main-search-input::placeholder {
          /* padding: 1rem;  */
 }
 
+
+.footer-img {
+  height: 100px;
+  width: auto;
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .footer-img {
+    height: auto;
+  }
+}
 /*# sourceMappingURL=main.css.map */

@@ -368,14 +368,7 @@ export default function Footer2() {
   <img
     src="/assets/img/E26media/footer.png"
     alt="img"
-    style={{
-    height:
-      typeof window !== "undefined" && window.innerWidth <= 768
-        ? "auto"
-        : "100px",
-    width: "auto",
-    maxWidth: "100%"
-  }}
+   className="footer-img"
   />
 </Link>
                             <Link href="/#" className="pra-clr">
