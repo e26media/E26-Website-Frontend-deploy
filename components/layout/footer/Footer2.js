@@ -369,10 +369,13 @@ export default function Footer2() {
     src="/assets/img/E26media/footer.png"
     alt="img"
     style={{
-      height: window.innerWidth <= 768 ? "auto" : "100px",
-      width: "auto",
-      maxWidth: "100%"
-    }}
+    height:
+      typeof window !== "undefined" && window.innerWidth <= 768
+        ? "auto"
+        : "100px",
+    width: "auto",
+    maxWidth: "100%"
+  }}
   />
 </Link>
                             <Link href="/#" className="pra-clr">
