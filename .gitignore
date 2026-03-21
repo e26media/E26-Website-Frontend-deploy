@@ -36,6 +36,8 @@ next-env.d.ts
 # IDE / Editor
 .vscode
 .idea
-
+public/assets/img/E26media/clints/old/
+public/assets/img/E26media/partner/old/
 # OS Files
 Thumbs.db
+

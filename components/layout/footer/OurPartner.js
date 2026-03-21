@@ -106,7 +106,7 @@ export default function OurPartner() {
 /* FORCE image to be bigger */
 .footer-client .swiper-slide img {
   width: 200px !important;
-  max-width: 200px !important;
+  max-width: 160px !important;
   height: auto !important;
   object-fit: contain;
   display: block;

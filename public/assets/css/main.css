@@ -1561,6 +1561,9 @@ footer {
         font-size: 36px;
         line-height: 120%;
     }
+    .hero-v1-content h1 .designers::before{
+        top:3px;
+    }
 }
 
 .hero-section-version2 {
